@@ -7,4 +7,3 @@ phases:
       - composer install
   build:
     commands:
-      - "php artisan migrate"
