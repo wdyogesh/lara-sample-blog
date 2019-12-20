@@ -7,4 +7,4 @@ phases:
       - composer install
   build:
     commands:
-      - phpunit tests
+      - "php artisan migrate"
