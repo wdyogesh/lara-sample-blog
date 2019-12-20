@@ -7,5 +7,3 @@ phases:
       #- composer install
   build:
     commands:
-artifacts:
-  files:
