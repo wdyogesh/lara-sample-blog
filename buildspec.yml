@@ -9,4 +9,3 @@ phases:
     commands:
 artifacts:
   files:
-    - deploy/**/*
